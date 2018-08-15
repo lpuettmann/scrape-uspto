@@ -4,4 +4,4 @@ Creates, among others, the following figure:
 
 <img src="https://github.com/lpuettmann/scrape-uspto/blob/master/patents_hjt.jpg" width="500">
 
-You find the dataset in `uspto_counts.rds` (80 KB).
+You find the dataset in `uspto_counts.csv` (1.6 MB).

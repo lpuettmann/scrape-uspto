@@ -110,6 +110,6 @@ ggplot(cmp_tabs, aes(yr, t2_ratio)) +
   facet_wrap(~hjt) +
   theme_tufte(base_family = "Helvetica") 
 
-write_rds(df, "uspto_counts.rds", compress = "gz")
+write_csv(df, "uspto_counts.csv")
 
 
