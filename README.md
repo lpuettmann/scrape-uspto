@@ -1,0 +1,1 @@
+Scrape the two tables of data from [this](https://www.uspto.gov/web/offices/ac/ido/oeip/taf/cbcby.htm) patent office (USPTO) website.
